@@ -1,3 +1,11 @@
+---
+layout: single
+title: "아이폰 카톡 백업없이 pc카톡으로 대화/미디어복구 하는 법 (재인증)"
+subtitle: "[Tips]"
+date: 2022-05-28 05:00
+background: 
+tag: [Tips, Github io, Notion, Kakaotalk, BackUp, drivekakao ]
+---
 # 아이폰 카톡 백업없이 pc카톡으로 대화/미디어복구 하는 법 (재인증)
 
 사건 발생 
@@ -34,7 +42,7 @@
 2. 카카오 센터 문의 : [https://cs.kakao.com/](https://cs.kakao.com/)  접속해서 챗봇말고 상담원있음 ❗FAIL❗
     
    
-![Untitled1](./img/Untitled 1.png)
+![poster](./img/Untitled 1.png)
     
 3. 구글링:  
     1. 나 같은 사람 많아서 마음 진정시키기 😥[https://www.clien.net/service/board/lecture/13004669#comment-head](https://www.clien.net/service/board/lecture/13004669#comment-head)

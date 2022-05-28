@@ -42,7 +42,7 @@ tag: [Tips, Github io, Notion, Kakaotalk, BackUp, drivekakao ]
 2. 카카오 센터 문의 : [https://cs.kakao.com/](https://cs.kakao.com/)  접속해서 챗봇말고 상담원있음 ❗FAIL❗
     
    
-![poster](./img/Untitled 1.png)
+![poster](./img/Untitled%201.png)
     
 3. 구글링:  
     1. 나 같은 사람 많아서 마음 진정시키기 😥[https://www.clien.net/service/board/lecture/13004669#comment-head](https://www.clien.net/service/board/lecture/13004669#comment-head)
